@@ -1,0 +1,4 @@
+sites:
+    uihc.org:
+        dev: www-dev.uihc.org
+        stage: www-stage.uihc.org

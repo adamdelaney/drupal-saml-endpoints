@@ -2,3 +2,6 @@ sites:
     uihc.org:
         dev: www-dev.uihc.org
         stage: www-stage.uihc.org
+    uihc.org/nursingjobs:
+        dev: www-dev.uihc.org/nursingjobs
+        stage: www-stage.uihc.org/nursingjobs

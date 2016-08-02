@@ -1,6 +1,7 @@
 sites:
     medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
+        stage: www-stage.medicine.uiowa.edu/internalmedicine
     uihc.org:
         dev: www-dev.uihc.org
         stage: www-stage.uihc.org

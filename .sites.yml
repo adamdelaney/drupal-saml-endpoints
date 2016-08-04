@@ -14,3 +14,6 @@ sites:
     uihc.org/nursingjobs:
         dev: www-dev.uihc.org/nursingjobs
         stage: www-stage.uihc.org/nursingjobs
+    uihc.org/transplant:
+        dev: www-dev.uihc.org/transplant
+        stage: www-stage.uihc.org/transplant

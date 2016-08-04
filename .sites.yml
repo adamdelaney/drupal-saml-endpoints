@@ -20,3 +20,6 @@ sites:
     uihc.org/transplant:
         dev: www-dev.uihc.org/transplant
         stage: www-stage.uihc.org/transplant
+    uihc.org/ucedd:
+        dev: www-dev.uihc.org/ucedd
+        stage: www-stage.uihc.org/ucedd

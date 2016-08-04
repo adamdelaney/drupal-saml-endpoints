@@ -2,6 +2,9 @@ sites:
     gme.medicine.uiowa.edu:
         dev: gme-dev.medicine.uiowa.edu
         stage: gme-stage.medicine.uiowa.edu
+    www.medicine.uiowa.edu:
+        dev: www-dev.medicine.uiowa.edu
+        stage: www-stage.medicine.uiowa.edu
     www.medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine

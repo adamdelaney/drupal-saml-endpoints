@@ -8,6 +8,9 @@ sites:
     www.medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine
+    uichildrens.org:
+        dev: www-dev.uichildrens.org
+        stage: www-stage.uichildrens.org
     uihc.org:
         dev: www-dev.uihc.org
         stage: www-stage.uihc.org

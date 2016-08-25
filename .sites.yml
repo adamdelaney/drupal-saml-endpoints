@@ -8,21 +8,21 @@ sites:
     www.medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine
-    www.uichildrens.org:
+    uichildrens.org:
         dev: www-dev.uichildrens.org
         stage: www-stage.uichildrens.org
-    www.uihc.org:
+    uihc.org:
         dev: www-dev.uihc.org
         stage: www-stage.uihc.org
-    www.uihc.org/clinicaltrials:
+    uihc.org/clinicaltrials:
         dev: www-dev.uihc.org/clinicaltrials
         stage: www-stage.uihc.org/clinicaltrials
-    www.uihc.org/nursingjobs:
+    uihc.org/nursingjobs:
         dev: www-dev.uihc.org/nursingjobs
         stage: www-stage.uihc.org/nursingjobs
-    www.uihc.org/transplant:
+    uihc.org/transplant:
         dev: www-dev.uihc.org/transplant
         stage: www-stage.uihc.org/transplant
-    www.uihc.org/ucedd:
+    uihc.org/ucedd:
         dev: www-dev.uihc.org/ucedd
         stage: www-stage.uihc.org/ucedd

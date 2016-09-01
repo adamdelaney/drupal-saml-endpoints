@@ -5,11 +5,11 @@ sites:
     www.medicine.uiowa.edu:
         dev: www-dev.medicine.uiowa.edu
         stage: www-stage.medicine.uiowa.edu
-        prod: www2.medicine.uiowa.edu
+        internal-prod: www2.medicine.uiowa.edu
     www.medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine
-        prod: www2.medicine.uiowa.edu/internalmedicine
+        internal-prod: www2.medicine.uiowa.edu/internalmedicine
     uichildrens.org:
         dev: www-dev.uichildrens.org
         stage: www-stage.uichildrens.org

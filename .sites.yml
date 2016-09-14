@@ -10,6 +10,10 @@ sites:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine
         internal-prod: www2.medicine.uiowa.edu/internalmedicine
+    www.medicine.uiowa.edu/neurosurgery:
+        dev: www-dev.medicine.uiowa.edu/neurosurgery
+        stage: www-stage.medicine.uiowa.edu/neurosurgery
+        internal-prod: www2.medicine.uiowa.edu/neurosurgery
     uichildrens.org:
         dev: www-dev.uichildrens.org
         stage: www-stage.uichildrens.org

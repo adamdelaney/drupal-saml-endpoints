@@ -6,14 +6,98 @@ sites:
         dev: www-dev.medicine.uiowa.edu
         stage: www-stage.medicine.uiowa.edu
         internal-prod: www2.medicine.uiowa.edu
+    www.medicine.uiowa.edu/acb:
+        dev: www-dev.medicine.uiowa.edu/acb
+        stage: www-stage.medicine.uiowa.edu/acb
+        internal-prod: www2.medicine.uiowa.edu/acb
+    www.medicine.uiowa.edu/biochemistry:
+        dev: www-dev.medicine.uiowa.edu/biochemistry
+        stage: www-stage.medicine.uiowa.edu/biochemistry
+        internal-prod: www2.medicine.uiowa.edu/biochemistry
+    www.medicine.uiowa.edu/biomed:
+        dev: www-dev.medicine.uiowa.edu/biomed
+        stage: www-stage.medicine.uiowa.edu/biomed
+        internal-prod: www2.medicine.uiowa.edu/biomed
+    www.medicine.uiowa.edu/eye:
+        dev: www-dev.medicine.uiowa.edu/eye
+        stage: www-stage.medicine.uiowa.edu/eye
+        internal-prod: www2.medicine.uiowa.edu/eye
+    www.medicine.uiowa.edu/familymedicine:
+        dev: www-dev.medicine.uiowa.edu/familymedicine
+        stage: www-stage.medicine.uiowa.edu/familymedicine
+        internal-prod: www2.medicine.uiowa.edu/familymedicine
+    www.medicine.uiowa.edu/immunology:
+        dev: www-dev.medicine.uiowa.edu/immunology
+        stage: www-stage.medicine.uiowa.edu/immunology
+        internal-prod: www2.medicine.uiowa.edu/immunology
     www.medicine.uiowa.edu/internalmedicine:
         dev: www-dev.medicine.uiowa.edu/internalmedicine
         stage: www-stage.medicine.uiowa.edu/internalmedicine
         internal-prod: www2.medicine.uiowa.edu/internalmedicine
+    www.medicine.uiowa.edu/mcb:
+        dev: www-dev.medicine.uiowa.edu/mcb
+        stage: www-stage.medicine.uiowa.edu/mcb
+        internal-prod: www2.medicine.uiowa.edu/mcb
+    www.medicine.uiowa.edu/microbiology:
+        dev: www-dev.medicine.uiowa.edu/microbiology
+        stage: www-stage.medicine.uiowa.edu/microbiology
+        internal-prod: www2.medicine.uiowa.edu/microbiology
+    www.medicine.uiowa.edu/neurology:
+        dev: www-dev.medicine.uiowa.edu/neurology
+        stage: www-stage.medicine.uiowa.edu/neurology
+        internal-prod: www2.medicine.uiowa.edu/neurology
     www.medicine.uiowa.edu/neurosurgery:
         dev: www-dev.medicine.uiowa.edu/neurosurgery
         stage: www-stage.medicine.uiowa.edu/neurosurgery
         internal-prod: www2.medicine.uiowa.edu/neurosurgery
+    www.medicine.uiowa.edu/obgyn:
+        dev: www-dev.medicine.uiowa.edu/obgyn
+        stage: www-stage.medicine.uiowa.edu/obgyn
+        internal-prod: www2.medicine.uiowa.edu/obgyn
+    www.medicine.uiowa.edu/orthopedics:
+        dev: www-dev.medicine.uiowa.edu/orthopedics
+        stage: www-stage.medicine.uiowa.edu/orthopedics
+        internal-prod: www2.medicine.uiowa.edu/orthopedics
+    www.medicine.uiowa.edu/oto:
+        dev: www-dev.medicine.uiowa.edu/oto
+        stage: www-stage.medicine.uiowa.edu/oto
+        internal-prod: www2.medicine.uiowa.edu/oto
+    www.medicine.uiowa.edu/pathology:
+        dev: www-dev.medicine.uiowa.edu/pathology
+        stage: www-stage.medicine.uiowa.edu/pathology
+        internal-prod: www2.medicine.uiowa.edu/pathology
+    www.medicine.uiowa.edu/pediatrics:
+        dev: www-dev.medicine.uiowa.edu/pediatrics
+        stage: www-stage.medicine.uiowa.edu/pediatrics
+        internal-prod: www2.medicine.uiowa.edu/pediatrics
+    www.medicine.uiowa.edu/pharmacology:
+        dev: www-dev.medicine.uiowa.edu/pharmacology
+        stage: www-stage.medicine.uiowa.edu/pharmacology
+        internal-prod: www2.medicine.uiowa.edu/pharmacology
+    www.medicine.uiowa.edu/physiology:
+        dev: www-dev.medicine.uiowa.edu/physiology
+        stage: www-stage.medicine.uiowa.edu/physiology
+        internal-prod: www2.medicine.uiowa.edu/physiology
+    www.medicine.uiowa.edu/psychiatry:
+        dev: www-dev.medicine.uiowa.edu/psychiatry
+        stage: www-stage.medicine.uiowa.edu/psychiatry
+        internal-prod: www2.medicine.uiowa.edu/psychiatry
+    www.medicine.uiowa.edu/radiationoncology:
+        dev: www-dev.medicine.uiowa.edu/radiationoncology
+        stage: www-stage.medicine.uiowa.edu/radiationoncology
+        internal-prod: www2.medicine.uiowa.edu/radiationoncology
+    www.medicine.uiowa.edu/radiology:
+        dev: www-dev.medicine.uiowa.edu/radiology
+        stage: www-stage.medicine.uiowa.edu/radiology
+        internal-prod: www2.medicine.uiowa.edu/radiology
+    www.medicine.uiowa.edu/surgery:
+        dev: www-dev.medicine.uiowa.edu/surgery
+        stage: www-stage.medicine.uiowa.edu/surgery
+        internal-prod: www2.medicine.uiowa.edu/surgery
+    www.medicine.uiowa.edu/urology:
+        dev: www-dev.medicine.uiowa.edu/urology
+        stage: www-stage.medicine.uiowa.edu/urology
+        internal-prod: www2.medicine.uiowa.edu/urology
     uichildrens.org:
         dev: www-dev.uichildrens.org
         stage: www-stage.uichildrens.org

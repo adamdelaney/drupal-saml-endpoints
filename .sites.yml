@@ -21,6 +21,14 @@ sites:
         dev: www-dev.medicine.uiowa.edu/biomed
         stage: www-stage.medicine.uiowa.edu/biomed
         internal-prod: www2.medicine.uiowa.edu/biomed
+    www.medicine.uiowa.edu/dermatology:
+        dev: www-dev.medicine.uiowa.edu/dermatology
+        stage: www-stage.medicine.uiowa.edu/dermatology
+        internal-prod: www2.medicine.uiowa.edu/dermatology
+    www.medicine.uiowa.edu/emergencymedicine:
+        dev: www-dev.medicine.uiowa.edu/emergencymedicine
+        stage: www-stage.medicine.uiowa.edu/emergencymedicine
+        internal-prod: www2.medicine.uiowa.edu/emergencymedicine
     www.medicine.uiowa.edu/eye:
         dev: www-dev.medicine.uiowa.edu/eye
         stage: www-stage.medicine.uiowa.edu/eye
@@ -85,6 +93,10 @@ sites:
         dev: www-dev.medicine.uiowa.edu/psychiatry
         stage: www-stage.medicine.uiowa.edu/psychiatry
         internal-prod: www2.medicine.uiowa.edu/psychiatry
+    www.medicine.uiowa.edu/pt:
+        dev: www-dev.medicine.uiowa.edu/pt
+        stage: www-stage.medicine.uiowa.edu/pt
+        internal-prod: www2.medicine.uiowa.edu/pt
     www.medicine.uiowa.edu/radiationoncology:
         dev: www-dev.medicine.uiowa.edu/radiationoncology
         stage: www-stage.medicine.uiowa.edu/radiationoncology

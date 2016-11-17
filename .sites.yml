@@ -1,4 +1,8 @@
 sites:
+    dentistry.uiowa.edu:
+        dev: dentistry.dev.drupal.uiowa.edu
+        stage: dentistry.stage.drupal.uiowa.edu
+        internal-prod: dentistry.prod.drupal.uiowa.edu
     gme.medicine.uiowa.edu:
         dev: gme-dev.medicine.uiowa.edu
         stage: gme-stage.medicine.uiowa.edu

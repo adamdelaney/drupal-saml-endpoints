@@ -10,6 +10,10 @@ sites:
         dev: www-dev.icts.uiowa.edu
         stage: www-stage.icts.uiowa.edu
         internal-prod: www.icts.uiowa.edu
+    intradent.dentistry.uiowa.edu:
+        dev: dentistryintradent.dev.drupal.uiowa.edu
+        stage: dentistryintradent.stage.drupal.uiowa.edu
+        internal-prod: dentistryintradent.prod.drupal.uiowa.edu
     www.medicine.uiowa.edu:
         dev: www-dev.medicine.uiowa.edu
         stage: www-stage.medicine.uiowa.edu

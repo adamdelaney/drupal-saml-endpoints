@@ -1,5 +1,5 @@
 sites:
-    dentistry.uiowa.edu:
+    www.dentistry.uiowa.edu:
         dev: dentistry.dev.drupal.uiowa.edu
         stage: dentistry.stage.drupal.uiowa.edu
         internal-prod: dentistry.prod.drupal.uiowa.edu

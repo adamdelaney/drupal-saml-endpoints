@@ -122,6 +122,9 @@ sites:
         dev: www-dev.medicine.uiowa.edu/urology
         stage: www-stage.medicine.uiowa.edu/urology
         internal-prod: www2.medicine.uiowa.edu/urology
+    signage.uihealthcare.org
+        dev: signage-dev.uihealthcare.org
+        stage: signage-stage.uihealthcare.org
     uichildrens.org:
         dev: www-dev.uichildrens.org
         stage: www-stage.uichildrens.org

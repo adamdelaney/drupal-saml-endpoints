@@ -143,3 +143,6 @@ sites:
     uihc.org/ucedd:
         dev: www-dev.uihc.org/ucedd
         stage: www-stage.uihc.org/ucedd
+    uihealthcare.org:
+        dev: www-dev.uihealthcare.org
+        stage: www-stage.uihealthcare.org        

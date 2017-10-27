@@ -122,6 +122,10 @@ sites:
         dev: www-dev.medicine.uiowa.edu/urology
         stage: www-stage.medicine.uiowa.edu/urology
         internal-prod: www2.medicine.uiowa.edu/urology
+    medicine.uiowa.edu/sercc:
+        dev: www-dev.medicine.uiowa.edu/sercc
+        stage: www-stage.medicine.uiowa.edu/sercc
+        internal-prod: www2.medicine.uiowa.edu/sercc
     signage.uihealthcare.org:
         dev: signage-dev.uihealthcare.org
         stage: signage-stage.uihealthcare.org

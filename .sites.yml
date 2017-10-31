@@ -149,4 +149,7 @@ sites:
         stage: www-stage.uihc.org/ucedd
     uihealthcare.org:
         dev: www-dev.uihealthcare.org
-        stage: www-stage.uihealthcare.org        
+        stage: www-stage.uihealthcare.org
+    signage.uiowa.edu:
+        dev: signage-dev.uiowa.edu
+        stage: signage-stage.uiowa.edu

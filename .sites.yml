@@ -153,6 +153,109 @@ sites:
     signage.uiowa.edu:
         dev: signage-dev.uiowa.edu
         stage: signage-stage.uiowa.edu
+    admissions.uiowa.edu:
+        dev: gc.admissions.dev.drupal.uiowa.edu
+        stage: gc.admissions.stage.drupal.uiowa.edu
+        internal-prod: admissions.uiowa.edu
+    amcs.uiowa.edu:
+        dev: amcs.dev.drupal.uiowa.edu
+        stage: amcs.stage.drupal.uiowa.edu
+        internal-prod: amcs.uiowa.edu
+    book.grad.uiowa.edu:
+        dev: book.dev.drupal.uiowa.edu
+        stage: book.stage.drupal.uiowa.edu
+        internal-prod: book.grad.uiowa.edu
+    cogscilang.grad.uiowa.edu:
+        dev: cogscilang.dev.drupal.uiowa.edu
+        stage: cogscilang.stage.drupal.uiowa.edu
+        internal-prod: cogscilang.grad.uiowa.edu
+    forms.grad.uiowa.edu:
+        dev: forms.dev.drupal.uiowa.edu
+        stage: forms.stage.drupal.uiowa.edu
+        internal-prod: forms.grad.uiowa.edu
+    genetics.grad.uiowa.edu:
+        dev: igpgenetics.dev.drupal.uiowa.edu
+        stage: igpgenetics.stage.drupal.uiowa.edu
+        internal-prod: genetics.grad.uiowa.edu
+    grad.admissions.uiowa.edu:
+        dev: gc.grad.admissions.dev.drupal.uiowa.edu
+        stage: gc.grad.admissions.stage.drupal.uiowa.edu
+        internal-prod: grad.admissions.uiowa.edu
+    gss.grad.uiowa.edu:
+        dev: gss.dev.drupal.uiowa.edu
+        stage: gss.stage.drupal.uiowa.edu
+        internal-prod: gss.grad.uiowa.edu
+    iowasuperfund.uiowa.edu:
+        dev: iowasuperfund.dev.drupal.uiowa.edu
+        stage: iowasuperfund.stage.drupal.uiowa.edu
+        internal-prod: iowasuperfund.uiowa.edu
+    iwp.grad.uiowa.edu:
+        dev: iwpnom.dev.drupal.uiowa.edu
+        stage: iwpnom.stage.drupal.uiowa.edu
+        internal-prod: iwp.grad.uiowa.edu
     iwp.uiowa.edu:
         dev: iwp.dev.drupal.uiowa.edu
         stage: iwp.stage.drupal.uiowa.edu
+        internal-prod: iwp.uiowa.edu
+    iwp.uiowa.edu/whitmanweb:
+        dev: iwpww.dev.drupal.uiowa.edu
+        stage: iwpww.stage.drupal.uiowa.edu
+        internal-prod: iwp.uiowa.edu/whitmanweb
+    iwp.uiowa.edu/publishing-gallery:
+        dev: iwppg.dev.drupal.uiowa.edu
+        stage: iwppg.stage.drupal.uiowa.edu
+        internal-prod: iwp.uiowa.edu/publishing-gallery
+    iwp.uiowa.edu/shse:
+        dev: iwpshse.dev.drupal.uiowa.edu
+        stage: iwpshse.stage.drupal.uiowa.edu
+        internal-prod: iwp.uiowa.edu/shse
+    iwp.uiowa.edu/silkroutes:
+        dev: iwpsr.dev.drupal.uiowa.edu
+        stage: iwpsr.stage.drupal.uiowa.edu
+        internal-prod: iwp.uiowa.edu/silkroutes
+    neuroscience.grad.uiowa.edu:
+        dev: igpneuroscience.dev.drupal.uiowa.edu
+        stage: igpneuroscience.stage.drupal.uiowa.edu
+        internal-prod: neuroscience.grad.uiowa.edu
+    placement.grad.uiowa.edu:
+        dev: gcplacement.dev.drupal.uiowa.edu
+        stage: gcplacement.stage.drupal.uiowa.edu
+        internal-prod: placement.grad.uiowa.edu
+    placement2.grad.uiowa.edu:
+        dev: gcplacement2.dev.drupal.uiowa.edu
+        stage: gcplacement2.stage.drupal.uiowa.edu
+    rio.urban.uiowa.edu:
+        dev: rio.dev.drupal.uiowa.edu
+        stage: rio.stage.drupal.uiowa.edu
+        internal-prod: rio.urban.uiowa.edu
+    slis.uiowa.edu:
+        dev: slis.dev.drupal.uiowa.edu
+        stage: slis.stage.drupal.uiowa.edu
+        internal-prod: www.slis.uiowa.edu
+    toxicology.grad.uiowa.edu:
+        dev: toxicology.dev.drupal.uiowa.edu
+        stage: toxicology.stage.drupal.uiowa.edu
+        internal-prod: toxicology.grad.uiowa.edu
+    uipda.grad.uiowa.edu:
+        dev: uipda.dev.drupal.uiowa.edu
+        stage: uipda.stage.drupal.uiowa.edu
+        internal-prod: uipda.grad.uiowa.edu
+    uipress.uiowa.edu:
+        dev: uipress.dev.drupal.uiowa.edu
+        stage: uipress.stage.drupal.uiowa.edu
+        internal-prod: www.uipress.uiowa.edu
+    urban.uiowa.edu:
+        dev: urban.dev.drupal.uiowa.edu
+        stage: urban.stage.drupal.uiowa.edu
+        internal-urban: www.urban.uiowa.edu
+    urban2.uiowa.edu:
+        dev: urban2.dev.drupal.uiowa.edu
+        stage: urban2.stage.drupal.uiowa.edu
+    writinguniversity.org:
+        dev: vwu.dev.drupal.uiowa.edu
+        stage: vwu.stage.drupal.uiowa.edu
+        internal-prod: writinguniversity.org
+    www.grad.uiowa.edu:
+        dev: gc.dev.drupal.uiowa.edu
+        stage: gc.stage.drupal.uiowa.edu
+        internal-prod: www.grad.uiowa.edu

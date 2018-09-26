@@ -160,7 +160,7 @@ sites:
     amcs.uiowa.edu:
         dev: amcs.dev.drupal.uiowa.edu
         stage: amcs.stage.drupal.uiowa.edu
-        internal-prod: amcs.uiowa.edu
+        internal-prod: www.amcs.uiowa.edu
     book.grad.uiowa.edu:
         dev: book.dev.drupal.uiowa.edu
         stage: book.stage.drupal.uiowa.edu
@@ -254,7 +254,7 @@ sites:
     writinguniversity.org:
         dev: vwu.dev.drupal.uiowa.edu
         stage: vwu.stage.drupal.uiowa.edu
-        internal-prod: writinguniversity.org
+        internal-prod: www.writinguniversity.org
     www.grad.uiowa.edu:
         dev: gc.dev.drupal.uiowa.edu
         stage: gc.stage.drupal.uiowa.edu

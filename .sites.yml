@@ -247,7 +247,7 @@ sites:
     urban.uiowa.edu:
         dev: urban.dev.drupal.uiowa.edu
         stage: urban.stage.drupal.uiowa.edu
-        internal-urban: www.urban.uiowa.edu
+        internal-prod: www.urban.uiowa.edu
     urban2.uiowa.edu:
         dev: urban2.dev.drupal.uiowa.edu
         stage: urban2.stage.drupal.uiowa.edu

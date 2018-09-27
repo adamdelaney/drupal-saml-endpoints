@@ -154,8 +154,8 @@ sites:
         dev: signage-dev.uiowa.edu
         stage: signage-stage.uiowa.edu
     admissions.uiowa.edu:
-        dev: gc.admissions.dev.drupal.uiowa.edu
-        stage: gc.admissions.stage.drupal.uiowa.edu
+        dev: admissions.dev.drupal.uiowa.edu
+        stage: admissions.stage.drupal.uiowa.edu
         internal-prod: admissions.uiowa.edu
     amcs.uiowa.edu:
         dev: amcs.dev.drupal.uiowa.edu
@@ -178,8 +178,8 @@ sites:
         stage: igpgenetics.stage.drupal.uiowa.edu
         internal-prod: genetics.grad.uiowa.edu
     grad.admissions.uiowa.edu:
-        dev: gc.grad.admissions.dev.drupal.uiowa.edu
-        stage: gc.grad.admissions.stage.drupal.uiowa.edu
+        dev: grad-admissions.dev.drupal.uiowa.edu
+        stage: grad-admissions.stage.drupal.uiowa.edu
         internal-prod: grad.admissions.uiowa.edu
     gss.grad.uiowa.edu:
         dev: gss.dev.drupal.uiowa.edu

@@ -150,6 +150,9 @@ sites:
     uihealthcare.org:
         dev: www-dev.uihealthcare.org
         stage: www-stage.uihealthcare.org
+    clinicaltrials.uihealthcare.org:
+        dev: clinicaltrials.dev.drupal.uihc.org
+        stage: clinicaltrials.stage.drupal.uihc.org
     signage.uiowa.edu:
         dev: signage-dev.uiowa.edu
         stage: signage-stage.uiowa.edu

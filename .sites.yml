@@ -153,6 +153,7 @@ sites:
     clinicaltrials.uihealthcare.org:
         dev: clinicaltrials.dev.drupal.uihc.org
         stage: clinicaltrials.stage.drupal.uihc.org
+        internal-prod: clinicaltrials.prod.drupal.uihc.org
     signage.uiowa.edu:
         dev: signage-dev.uiowa.edu
         stage: signage-stage.uiowa.edu
